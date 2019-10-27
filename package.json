@@ -1,0 +1,16 @@
+{
+  "name": "alexia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "alexia": "^2.4.0",
+    "hapi": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
